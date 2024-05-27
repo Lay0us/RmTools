@@ -1,0 +1,16 @@
+file_name,file_path,malware_name
+InstDrv.exe,C:\Users\huoji\Desktop\InstDrv.exe,hash_base
+dbk64.sys,C:\Users\huoji\Desktop\Cheat Engine 7.4 汉化绿色版\dbk64.sys,Windows_Hacktool_CheatEngine_fedac96d
+mimikatz_x64_.exe,C:\Users\huoji\Desktop\mimikatz_x64_.exe,Windows_Hacktool_Mimikatz_674fd079
+rm_atp_test_tool.exe,C:\Users\huoji\Desktop\shellcode\rm_atp_test_tool.exe,Multi_EICAR_ac8f42d6
+kprocesshacker.sys,C:\Users\huoji\Desktop\x64\kprocesshacker.sys,Windows_Hacktool_ProcessHacker_3d01069e
+InstDrv.exe,C:\Users\huoji\Desktop\测试工具\InstDrv.exe,hash_base
+kprocesshacker.sys,C:\Users\huoji\Desktop\processhacker-2.39-bin\x86\kprocesshacker.sys,Windows_Hacktool_ProcessHacker_3d01069e
+kprocesshacker.sys,C:\Users\huoji\Desktop\processhacker-2.39-bin\x64\kprocesshacker.sys,Windows_Hacktool_ProcessHacker_3d01069e
+InstDrv.exe,C:\Users\huoji\Desktop\刻录用\可执行文件\InstDrv.exe,hash_base
+Seatbelt.exe,C:\Users\huoji\Desktop\cobaltstrike4_jb51\bruteratel(4)\server_confs\Seatbelt.exe,Windows_Hacktool_WinPEAS_ng_b6bb3e7c
+mimikatz.exe,C:\Users\huoji\Desktop\lua测试\T1003.001\bin\x64\mimikatz.exe,Windows_Hacktool_Mimikatz_674fd079
+winvnc.x86.dll,C:\Users\huoji\Desktop\cobaltstrike4_jb51\cobaltstrike4\cs4.0\cobaltstrike有修改中文\third-party\winvnc.x86.dll,Windows_Trojan_CobaltStrike_d00573a3
+winvnc.x64.dll,C:\Users\huoji\Desktop\cobaltstrike4_jb51\cobaltstrike4\cs4.0\cobaltstrike有修改中文\third-party\winvnc.x64.dll,Windows_Trojan_CobaltStrike_d00573a3
+winvnc.x86.dll,C:\Users\huoji\Desktop\测试工具\cobaltstrike4_jb51\cobaltstrike4\cs4.0\cobaltstrike有修改中文\third-party\winvnc.x86.dll,Windows_Trojan_CobaltStrike_d00573a3
+winvnc.x64.dll,C:\Users\huoji\Desktop\测试工具\cobaltstrike4_jb51\cobaltstrike4\cs4.0\cobaltstrike有修改中文\third-party\winvnc.x64.dll,Windows_Trojan_CobaltStrike_d00573a3

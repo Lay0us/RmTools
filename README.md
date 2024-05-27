@@ -7,11 +7,35 @@
 
 ### 更新日志
 
-2023/12/25:
+2024/5/27:
 
-增加银狐的yara规则,检测截至目前的银狐样本
+memory scanner增加2024_5_27版本: 
 
-2023/8/3:
+增加白加黑检测(100%检测白加黑) 
+
+增加shadow stack walk(100%检测各种 栈欺骗、'栈加密'、检测ROP漏洞利用技术) 
+
+shadow stack walk需要芯片支持CET与系统支持CET机制,大部分intel的CPU需要bios开启, AMD的CPU则默认开启这个机制 
+
+关于这个机制,微软在KeVerifyContextXStateCetU中所使用,具体移步 
+
+https://github.com/yardenshafir/cet-research/blob/master/src/KeVerifyContextXStateCetU.c 
+
+后续更新计划:
+
+```
+1. 预计更新java内存马扫描
+2. 预计更新mssql爆破检测
+3. 预计更新抹掉PE头检测
+```
+
+CET支持需要CPU支持, 
+
+2023/12/25: 
+
+增加银狐的yara规则,检测截至目前的银狐样本 
+
+2023/8/3: 
 
 door_scanner-alpha更新 ioc扫描 支持银狐扫描
 
